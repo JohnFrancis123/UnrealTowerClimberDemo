@@ -1,4 +1,4 @@
-# 🗼 Unreal Tower Climber Demo
+# Unreal Tower Climber Demo
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.4-blue?logo=unrealengine)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey)
@@ -6,26 +6,26 @@
 
 A 2D vertical scrolling tower climbing game built with Unreal Engine 5.4. Navigate through procedurally generated rooms filled with obstacles, spikes, and platforms while climbing to the top of an endless tower!
 
-## ✨ Features
+## Features
 
-- 🎮 **2D Side-Scrolling Gameplay** - Classic platformer mechanics in a modern Unreal Engine environment
-- 🏗️ **Procedural Room Generation** - Unique layouts with multiple room types (single, double, and triple platform configurations)
-- ⚠️ **Dynamic Obstacles** - Navigate through spikes, buttons, and environmental hazards
-- 💖 **Health System** - Hearts-based health tracking with visual UI feedback
-- 🎯 **Score Tracking** - Compete for high scores as you climb higher
-- 🎨 **Custom 2D Art** - Hand-crafted sprites for characters, platforms, and obstacles
-- 🔊 **Audio System** - Integrated sound effects and background music
-- 📱 **Complete UI** - Title screen, game over screen, and in-game HUD
-- 🤖 **NPC System** - Includes enemy characters and interactions
+-  **2D Side-Scrolling Gameplay** - Classic platformer mechanics in a modern Unreal Engine environment
+-  **Procedural Room Generation** - Unique layouts with multiple room types (single, double, and triple platform configurations)
+-  **Dynamic Obstacles** - Navigate through spikes, buttons, and environmental hazards
+-  **Health System** - Hearts-based health tracking with visual UI feedback
+-  **Score Tracking** - Compete for high scores as you climb higher
+-  **Custom 2D Art** - Hand-crafted sprites for characters, platforms, and obstacles
+-  **Audio System** - Integrated sound effects and background music
+-  **Complete UI** - Title screen, game over screen, and in-game HUD
+-  **NPC System** - Includes enemy characters and interactions
 
-## 🎯 Game Mechanics
+##  Game Mechanics
 
 - **Vertical Progression**: Climb through rooms that scroll vertically
 - **Obstacle Avoidance**: Navigate through spikes, barriers, and other hazards
 - **Platform Navigation**: Jump between single, double, and triple platform configurations
 - **Survival Challenge**: Maintain your health while climbing as high as possible
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 - Minimum 8GB RAM (16GB recommended)
 - DirectX 11 or 12 compatible graphics card
 
-## 📦 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed:
    - In Unreal Editor, click the **Play** button
    - Or use **Standalone Game** mode for full-screen experience
 
-## 🎮 How to Play
+##  How to Play
 
 1. **Start Screen**: Launch the game to see the title screen
 2. **Controls**:
@@ -67,7 +67,7 @@ Before you begin, ensure you have the following installed:
 4. **Health**: Keep an eye on your hearts - running out means game over!
 5. **Score**: Your score increases as you progress upward
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 UnrealTowerClimberDemo/
@@ -92,7 +92,7 @@ UnrealTowerClimberDemo/
     └── GameDevTestProject.uproject   # Test project file
 ```
 
-## 🔧 Technical Details
+##  Technical Details
 
 - **Engine Version**: Unreal Engine 5.4
 - **Project Type**: Blueprint-based with Paper2D
@@ -102,7 +102,7 @@ UnrealTowerClimberDemo/
 - **Primary Language**: Blueprint Visual Scripting
 - **Asset Types**: 2D Sprites, Materials, Blueprints, Audio
 
-## 🎨 Key Components
+##  Key Components
 
 ### Blueprints
 - **2dCharacter**: Main player character with movement and physics
@@ -117,7 +117,7 @@ UnrealTowerClimberDemo/
 - **Score System**: Points tracking and display
 - **Room Management**: Procedural room generation and cleanup
 
-## 🚀 Development
+##  Development
 
 This project was developed as part of PROG21308 coursework, demonstrating:
 - 2D game development in Unreal Engine
@@ -126,7 +126,7 @@ This project was developed as part of PROG21308 coursework, demonstrating:
 - UI/UX design
 - Asset integration and management
 
-## 🤝 Contributing
+##  Contributing
 
 This is an educational project, but suggestions and feedback are welcome! Feel free to:
 1. Fork the repository
@@ -134,16 +134,17 @@ This is an educational project, but suggestions and feedback are welcome! Feel f
 3. Make your changes
 4. Submit a pull request
 
-## 📝 License
+##  License
 
 This project is available for educational purposes. Please respect any third-party assets and their respective licenses.
 
-## 👤 Author
+##  Authors
 
-**John Francis**
-- GitHub: [@JohnFrancis123](https://github.com/JohnFrancis123)
+**John Francis, Janine Rye Gatdula**
+- John Franics GitHub: [@JohnFrancis123](https://github.com/JohnFrancis123)
+- Janine Rye Gatdula GitHub: [@janinegatdula](https://github.com/janinegatdula)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Unreal Engine and Epic Games for the game engine
 - PROG21308 course materials and instructors
@@ -151,6 +152,6 @@ This project is available for educational purposes. Please respect any third-par
 
 ---
 
-**⭐ If you found this project interesting, please consider giving it a star!**
+** If you found this project interesting, please consider giving it a star!**
 
-*Built with ❤️ using Unreal Engine 5.4*
+*Built with  using Unreal Engine 5.4*
