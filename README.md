@@ -60,7 +60,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Start Screen**: Launch the game to see the title screen
 2. **Controls**:
-   - Move left/right with arrow keys or A/D
+   - Move left/right with left/right arrow keys or A/D keys
    - Jump with spacebar
    - Navigate menus with mouse
 3. **Objective**: Climb as high as possible while avoiding obstacles
